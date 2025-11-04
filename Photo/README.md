@@ -5,7 +5,7 @@
 ![Photo 2](Photo%202.JPEG)
 
 ## Мемные картинки. Коллаб на тематику Пикачу и Гитлера.
-![Photo 3](%D0%9F%D0%B8%D0%BA%D0%B0%D0%B4%D0%BE%D0%BB%D1%8C%D1%84.jpeg)
+![Photo 3](Pickachy.jpeg)
 
 ## Реалии жизни...
-![Photo 4](I%60m%20fine.jpg)
+![Photo 4](Im_fine.jpg)
