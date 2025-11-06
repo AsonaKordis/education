@@ -21,7 +21,11 @@
 
 * Размер (Font Size) — высота символов.
 
+![Screen_02.png](Photo/Screen_02.png)
+
 * Начертание (Weight) — толщина (Light, Regular, Bold и т. д.).
+
+![Screen_03.png](Photo/Screen_03.png)
 
 * Межстрочный интервал (Line Height) — расстояние между строками.
 
