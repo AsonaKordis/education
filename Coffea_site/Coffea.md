@@ -53,4 +53,42 @@
 
 ## Главная страница:
 
-что на ней есть и т.д.
+### Header:
+* Логотип
+* Главное меню (Home, Coffe, Bakery, Shop, About, Login)
+* Кнопка поиска
+
+### MainBanner:
+* Картинка с кофе
+* Текст заголовка
+* Кнопка для перехода в каталог
+
+### OfferList:
+* Список иконок с подписью
+
+### SpecialList
+* Заголовок "Our special coffee"
+* Список товаров - 4 штуки
+* Слайдер - прокручивается по одной карточке.
+
+### DesertList:
+* Заголовок "Оur special dessert"
+* Тоже что и SpecialList
+
+### ExploreBanner:
+* Картинка с кофе
+* Заголовок с текстом
+* Кнопка на страницу каталога
+
+### TestimonialList:
+* Заголовок с текстом "Come and Join our happy customers"
+* Список карточек с отзывами - 3 штуки
+* Пагинация
+
+### JoinForm:
+* Заголовок "Join in and ger 15% off!"
+* Поле ввода email
+* Кнопка Subscribe
+
+### Footer:
+*
