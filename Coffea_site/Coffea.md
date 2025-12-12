@@ -91,4 +91,25 @@
 * Кнопка Subscribe
 
 ### Footer:
-*
+* Заголовок "Coffea"
+* "PRIVACY"
+  * **Terms of use** - ссылка на страницу ```/terms_of_use```
+  * **Privacy policy** - ссылка на страницу ```/privacy_policy```
+  * **Cookies** - ссылка на страницу ```/cookies```
+* "SERVICES"
+  * **Shop** - ссылка на страницу ```/shop```
+  * **Order ahead** - ссылка на страницу ```/order_ahead```
+  * **Menu** - ссылка на страницу ```/menu```
+* "ABOUT US"
+  * **Find a location** - ссылка на страницу ```/location```
+  * **About us** - ссылка на страницу ```/about```
+  * **Out story** - ссылка на страницу ```/story```
+* "INFOTNATION"
+  * **Plons & pricing** - ссылка на страницу ```/pricing```
+  * **Sell your prodcts** - ссылка на страницу ```/sell_your```
+  * **Jobs** - ссылка на страницу ```/jobs```
+* "SOCIAL MEDIA"
+  * **X** - ссылка на профиль ```https://x.com```
+  * **Instagram** - ссылка на профиль ```https://www.instagram.com/```
+  * **Facebook** -  ссылка на страницу ```https://www.facebook.com/```
+  * **LinkedIn** - ссылка на страницу ```https://www.linkedin.com```
